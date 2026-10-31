@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = asap500xixo@gmail.com
+	name = @users.noreply.github.com
